@@ -1,5 +1,6 @@
 <html>
 <head>
+<link rel="stylesheet" href="style.css">
 <center>
 <h1>Kapitel 1.4 - Der Fehler</h1>
 </center>
@@ -10,8 +11,10 @@
 </center>
 <center>
 <p>
+<font size="20">
 Als du ihn bedrohst machte er nur eine Handbewegung und teilte dich mit Hilfe des Schwertes in zwei Teile.
 </p>
+</font>
 <p>
 <div>
 <a href="index.html" class="buttons btn">Nochmal</a>

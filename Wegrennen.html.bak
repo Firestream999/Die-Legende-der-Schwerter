@@ -9,9 +9,11 @@
 <center>
 <img src="Höhle.jpg" align="middle"></img>
 <p>
+<font size="20">
 Nachdem du sehr weit vom  Schloss in den Wald gerannt bist setzt du dich in eine Höhle. Am nächsten Tag geht eine Pilzsammlerin an dir vorbei du fragst sie was geschehen sei. Sie Antwortet  das gestern ein putsche 
 geschehen ist und das der König in drei Tagen hingerichtet werden soll. Du bist geschockt was sollst du tun?
 </p>
+</font>
 <p>
 <div>
 <a href="GeheWald.html" class="buttons btn">Gehe tiefer in den Wald</a>
@@ -19,7 +21,7 @@ geschehen ist und das der König in drei Tagen hingerichtet werden soll. Du bist
 </p>
 <p>
 <div>
-<a href="Bleibenhöhle.html" class="buttons btn">Bleiben</a>
+<a href="Bleibenhoehle.html" class="buttons btn">Bleiben</a>
 </div>
 </p>
 </p>
