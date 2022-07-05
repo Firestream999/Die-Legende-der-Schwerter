@@ -1,0 +1,30 @@
+<html>
+<head>
+<center>
+<h1> Kapitel 1.3 - Die Burg</h1>
+</center>
+</head>
+<body>
+<center>
+<img src="Magierburg.jpg" align="middle"></img>
+</center>
+<p>
+</p>
+<center>
+Nach dem du einen Tag durch den Wald gegangen bist siehst du in der ferne eine Burg.
+Du gehst zu der Burg und spazierst durch die offenen Tore. Im Burghof siehst du einen alten Man der in der miete des Hofes steht. 
+Er trägt ein Leuchtendes Schwert bei sich.
+</p>
+<p>
+<div>
+<a href="Bedroheihn.html" class="buttons btn">Bedrohe ihn</a>
+</div>
+</p>
+<p>
+<div>
+<a href="Bleibenhoehle.html" class="buttons btn">Bitte ihn um hilfe</a>
+</div>
+</p>
+</center>
+</body>
+</html>
