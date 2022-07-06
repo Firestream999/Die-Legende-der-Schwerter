@@ -1,0 +1,28 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<center>
+<h1>Kapitel 1.2 - Gute Wahl</h1>
+</center>
+</head>
+<body>
+<center>
+<img src="Ritter.png" align="middle"></img>
+<p>
+<font size="20">
+Ihr kämpft zusammen gegen den Linken Ritter. Als er zu Bodenfile teilte dir der Ritter mit das ein Putschversuch 
+gegen den König gestartet wurde. Als er seinen Satz beendet traf 
+ihn ein Pfeil mit einer Schwarzpulver spitze direkt in die Visier Lücke (BOM).Von der Explosion wirst du bewusstlos.
+</p>
+</font>
+<p>
+<div>
+<a href="GeheWald.html" class="buttons btn">Aufwachen</a>
+</div>
+</p>
+<p>
+</p>
+</p>
+</center>
+</body>
+</html>

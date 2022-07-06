@@ -2,7 +2,7 @@
 <head>
 <link rel="stylesheet" href="style.css">
 <center>
-<h1>Kapitel 1.1 - Was ist passiert?</h1>
+<h1>Kapitel 1.2 - Gute Wahl</h1>
 </center>
 </head>
 <body>
@@ -16,12 +16,12 @@ Alls du in den Schlosshof gehst bist du verwirrt. Soldaten des Königreiches kä
 </font>
 <p>
 <div>
-<a href="KampfLinks.html" class="buttons btn">Kämpfe gegen den Linken</a>
+<a href="GeheWald.html" class="buttons btn">Kämpfe gegen den Linken</a>
 </div>
 </p>
 <p>
 <div>
-<a href="zock.html" class="buttons btn">Kämpfe gegen den Rechten</a>
+<a href="Bleibenhoehle.html" class="buttons btn">Kämpfe gegen den Rechten</a>
 </div>
 </p>
 </p>
