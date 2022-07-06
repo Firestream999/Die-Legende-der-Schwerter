@@ -1,0 +1,33 @@
+<html>
+<link rel="stylesheet" href="style.css">
+<center>
+<h1>Kapitel 1.5 - Die Kraft</h1>
+</center>
+</head>
+<body>
+<center>
+<img src="Schwertblau.png" align="middle"></img>
+</center>
+<center>
+<p>
+<font size="20">
+Nachdem du 2Tage zurück zum Schloss gerannt bist stehst 
+du vor den Mauern. Trotz dem ganzen rennen fühlst du dich nicht 
+müde, das Schwert gibt dir Kraft.
+Alls du das Tor mit einem schlag zerstörst siehst du wie die Anfangszeremonie 
+der Hinrichtung vollzogen wirde.
+</p>
+</font>
+<p>
+<div>
+<a href="redenversuch.html" class="buttons btn">Versuche zu reden</a>
+</div>
+</p>
+<p>
+<div>
+<a href="toeten.html" class="buttons btn">Töte sie</a>
+</div>
+</p>
+</center>
+</body>
+</html>
